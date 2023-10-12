@@ -33,6 +33,4 @@ rust_library_host {
         "libunicode_xid",
     ],
     compile_multilib: "first",
-    product_available: true,
-    vendor_available: true,
 }
